@@ -1,0 +1,1 @@
+The software, which utilizes Amber for molecular dynamics simulations, is employed in post-docking virtual screening. This process evaluates molecular enrichment by assessing the stability of ligands within the binding pocket, calculating binding free energy, and identifying key interactions.
